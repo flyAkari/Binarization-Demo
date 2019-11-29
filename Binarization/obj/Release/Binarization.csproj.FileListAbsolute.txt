@@ -1,0 +1,8 @@
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\bin\Release\二值化尝试.exe.config
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\bin\Release\二值化尝试.exe
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\bin\Release\二值化尝试.pdb
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\obj\Release\Binarization.Form1.resources
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\obj\Release\二值化尝试.Properties.Resources.resources
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\obj\Release\Binarization.csproj.GenerateResource.cache
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\obj\Release\二值化尝试.exe
+C:\Users\Akari\Desktop\Binarization Demo\Binarization\obj\Release\二值化尝试.pdb
